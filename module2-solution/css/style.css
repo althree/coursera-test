@@ -1,1 +1,17 @@
+@media (min-width: 992px){
+  .large{
+    /*one row*/
+  }
+}
 
+@media (min-width: 768px and max-width: 991px) {
+  .medium{
+   /*two rows, two on top, one on bottow*/ 
+  }
+}
+
+@media (max-width: 767px){
+  .small{
+    /*three rows stacked*/
+  }
+}
