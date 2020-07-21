@@ -1,0 +1,21 @@
+p {
+  text-align: center;
+}
+h1{
+  text-align: left;
+  margin: 10px 20px;
+}
+nav{
+  background-color: #708090;
+}
+h2{
+  margin: 30px 0px;
+}
+#tall-section{
+  background-color: #848484;
+  padding: 10px 40px;
+  margin-bottom: 50px;
+}
+h4{
+  margin: 20px;
+}
